@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
 
                 Context context = MainActivity.this;
 
-                Toast toast = Toast.makeText(context,"Toast wiht Image",Toast.LENGTH_SHORT);
+                Toast toast = Toast.makeText(context,"Toast with Image",Toast.LENGTH_SHORT);
 
 
 
